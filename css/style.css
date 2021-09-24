@@ -34,7 +34,7 @@ header{
 }
 
 main {
-    height: calc(100% - 140px);
+    /* height: calc(100% - 140px); */
     width: 100%;
     background-color: #DDDDDD;
     display: flex;
